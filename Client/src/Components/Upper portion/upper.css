@@ -1,0 +1,69 @@
+.firstdiv {
+    height: 50vh;
+    width: 100%;
+    background: rgb(0, 0, 0);
+    padding-top: 10px;
+}
+
+.innerfirstdiv {
+    height: 300px;
+    width: 800px;
+    background-color: rgb(72, 70, 70);
+    margin-left: 380px;
+    margin-top: 70px;
+    border-radius: 20px;
+    padding-top: 10px;
+    
+}
+
+.mainheading {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 5px 10px black;
+}
+
+.line {
+    width: 700px;
+}
+
+.contactheading {
+    margin-left: 300px;
+    font-size: 25px;
+    color: white;
+
+}
+
+.name {
+    margin-left: 100px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.email {
+    margin-left: 100px;
+    font-size: 20px;
+    color: white;
+}
+
+.input1 {
+    width: 500px;
+    height: 30px;
+
+}
+
+.input2 {
+    width: 500px;
+    height: 30px;
+
+}
+.button{
+    background-color: green;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 300px;
+    height: 35px;
+    width: 150px;
+}
